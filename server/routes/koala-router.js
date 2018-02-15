@@ -80,28 +80,3 @@ router.get('/', function(request, response){
         response.sendStatus(500);
     })
   }) // end get by id
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-module.exports = router;
